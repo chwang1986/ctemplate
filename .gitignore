@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+
+# VS Code 配置文件 
+.vscode
